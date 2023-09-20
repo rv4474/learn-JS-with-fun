@@ -4,6 +4,7 @@
 let name = "hitesh"
 let age = 18
 let isLoggedIn = false
+//let year: string ="one "; //in typescript we can strict type  of variable
 let state;
 
 // number => 2^53
